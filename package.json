@@ -1,6 +1,6 @@
 {
   "name": "expo-sqlite-query-helper",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "SQLite query helper library for expo-sqlite",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -20,20 +20,15 @@
     "expo-sqlite-helper",
     "sqlite-query-builder"
   ],
-  "author": "ltsharma",
+  "author": "kesylo",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ltsharma/expo-sqlite-query-helper/issues"
   },
   "homepage": "https://github.com/ltsharma/expo-sqlite-query-helper#readme",
-  "devDependencies": {
-    "@types/react": "^16.9.34",
-    "@types/validator": "^13.1.0",
-    "typescript": "^3.8.3"
-  },
   "peerDependencies": {
-    "expo": "^38.0.10",
-    "expo-sqlite": "^8.4.0",
-    "react": "^16.13.1"
+    "expo": "^44.0.0",
+    "expo-sqlite": "~10.1.0",
+    "react": "17.0.1"
   }
 }
