@@ -1,5 +1,5 @@
 {
-  "name": "expo-sqlite-query-helper",
+  "name": "expo-sqlite-query-helper-next",
   "version": "1.1.5",
   "description": "SQLite query helper library for expo-sqlite",
   "main": "./lib/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ltsharma/expo-sqlite-query-helper"
+    "url": "git+https://github.com/kesylo/expo-sqlite-query-helper"
   },
   "keywords": [
     "expo",
@@ -23,9 +23,9 @@
   "author": "kesylo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ltsharma/expo-sqlite-query-helper/issues"
+    "url": "https://github.com/kesylo/expo-sqlite-query-helper/issues"
   },
-  "homepage": "https://github.com/ltsharma/expo-sqlite-query-helper#readme",
+  "homepage": "https://github.com/kesylo/expo-sqlite-query-helper#readme",
   "peerDependencies": {
     "expo": "^44.0.0",
     "expo-sqlite": "~10.1.0",
