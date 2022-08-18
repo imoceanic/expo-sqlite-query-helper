@@ -1,6 +1,6 @@
 {
   "name": "expo-sendylo-sqlite-helper",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "SQLite query helper library for expo-sqlite",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/kesylo/expo-sqlite-query-helper#readme",
   "peerDependencies": {
-    "expo": "^45.0.0",
-    "expo-sqlite": "^10.2.0",
-    "react": "^17.0.2"
+    "expo": "^46.0.0",
+    "expo-sqlite": "^10.3.0",
+    "react": "^18.0.0"
   }
 }
