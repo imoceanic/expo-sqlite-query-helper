@@ -1,5 +1,5 @@
 {
-  "name": "expo-sendylo-sqlite-helper",
+  "name": "expo-oceanic-sqlite-helper",
   "version": "1.1.8",
   "description": "SQLite query helper library for expo-sqlite",
   "main": "./lib/index.js",
