@@ -1,6 +1,6 @@
 {
   "name": "expo-oceanic-sqlite-helper",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "SQLite query helper library for expo-sqlite",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
